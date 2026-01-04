@@ -1,0 +1,22 @@
+{
+  "name": "mini-ecommerce-app",
+  "version": "1.0.0",
+  "description": "Mini e-commerce React app (Vite)",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "author": "Ishu",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
